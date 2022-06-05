@@ -1,0 +1,21 @@
+
+*{
+    color:rgb(65, 161, 41);
+}
+h2{
+    color:red;
+}
+.fondoVerde{
+    background-color: greenyellow;
+    color: fuchsia;
+}
+.fuenteGrande{
+    font-size: 30px;
+    color:yellow;
+}
+#idPrimero{
+    background-color: black;
+}
+@media screen {
+    
+}
